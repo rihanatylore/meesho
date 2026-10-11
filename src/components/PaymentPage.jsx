@@ -35,7 +35,7 @@ export default function PaymentPage() {
   // =========================================
 
   // Keep the receiver details in one place only.
-  const upiId = "appu6141@slc";
+  const upiId = "jana2604356102@janabank";
   const payeeName = "Meesho";
 
   // =========================================

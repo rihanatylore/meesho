@@ -90,7 +90,7 @@ function CheckOutpage({ data }) {
 
   }, []);
 
-  const upiId = "appu6141@slc";
+  const upiId = "jana2604356102@janabank";
 
   const payeeName = "Meesho";
 
