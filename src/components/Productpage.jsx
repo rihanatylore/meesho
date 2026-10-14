@@ -136,22 +136,22 @@ function Productpage({ data }) {
   };
 
   const sellerNames = [
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
-    'Aarjal Creation',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
+    'Jana',
   ];
 
   const reviewsProduct = [
